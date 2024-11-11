@@ -6,6 +6,8 @@ credentials.json
 # C extensions
 *.so
 /credentials.json
+token.json
+token.pickle
 
 # Distribution / packaging
 .Python
